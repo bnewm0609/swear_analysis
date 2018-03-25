@@ -1,0 +1,8 @@
+# VIM files
+*.swp
+# extra large data files
+/data/*
+/model/*
+# setup files
+.DS_Store
+/.ipynb_checkpoints/*
