@@ -12,8 +12,8 @@ The file swear\_analysis.py assumes
 .
 |____data/
 | |____golve.twitter.27B.100d.model.vectors.npy
-| |____(_rest of data files_)
+| |____( rest of data files )
 |____swear_analysis/
-| |____(_stuff from github)
+| |____( stuff from github )
 ```
 

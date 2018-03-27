@@ -45,7 +45,7 @@ def print_closest_words(vectors, targets):
 #def load_gensim_embeddings(filename)
 words_of_interest = ["fuck", "fucking", "friggen", "shit", "damn", "poop", "darn", "frog"]
 
-#word_vectors = KeyedVectors.load_word3vec_format('%sglove.42B.300d.txt'%DATA_PATH, binary=False)
+#word_vectors = KeyedVectors.load_word2vec_format('%sglove.42B.300d.txt'%DATA_PATH, binary=False)
 #print("\n\n------GLOVE 42B 300D------\n")
 #print_closest_words(word_vectors, words_of_interest)
 #word_vectors.save('%sgolve.42B.300d.model'%MODEL_PATH)
